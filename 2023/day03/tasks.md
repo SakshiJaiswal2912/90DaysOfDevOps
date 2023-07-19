@@ -15,4 +15,24 @@ Task: What is the linux command to
 11. To find the difference between fruits.txt and Colors.txt file.
 
 
+
+1. cat<filename>
+2, chmod <filename>
+3. history
+4. rm -rvf <filename>
+5. touch fruits.txt
+   cat fruits.txt
+6. vim devops.txt
+    insert i
+    :wq (to save)
+7. head -3 <filename>
+8. tail -3 <filename>
+9. touch Colors.txt && cat Colors.txt
+10. vim Colors.txt
+    insert i
+    :wq
+11. diff fruits.txt Colors.txt
+
+
+
 Reference: https://www.linkedin.com/pulse/linux-commands-devops-used-day-to-day-activit-chetan-/
