@@ -6,5 +6,10 @@ Task: What is the linux command to
 3. Create a nested directory A/B/C/D/E
 
 Note: [Check this file for reference](basic_linux_commands.md)
+pwd
+ls -la
+ls -a
+mkdir -p A/B/C/D/E
+
 
 Check the basic_linux_commands.md file on the same directory day2
