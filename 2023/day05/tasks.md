@@ -28,6 +28,8 @@ You may need to use loops or commands (or both), based on your preference . [Che
 
  2) Create a Script to backup all your work done till now.
 
+    tar -cvf mybackup.tar.gz
+
  Backups are an important part of DevOps Engineers day to Day activities
  The video in References will help you to understand How a DevOps Engineer takes backups (it can feel a bit difficult but keep trying, Nothing is impossible.)
  Watch [this video](https://youtu.be/aolKiws4Joc) 
@@ -48,6 +50,10 @@ A user is an entity, in a Linux operating system, that can manipulate files and 
 
 
  5) Create 2 users and just display their Usernames
+
+    sudo useradd -m <username >
+    sudo useradd -m <username>
+    cat /etc/passwd
 
 [Check out this reference: https://www.geeksforgeeks.org/user-management-in-linux/](https://www.geeksforgeeks.org/user-management-in-linux/)
 
